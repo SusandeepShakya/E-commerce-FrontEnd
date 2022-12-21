@@ -46,7 +46,8 @@ const Circle = styled.div`
   `;
 
 const Image = styled.img`
-    height: auto;
+    height: 350px;
+    min-width: 280px;
     z-index: 2;
   `;
 
@@ -70,7 +71,7 @@ const Product = ({ item }) => {
     return (
         <Container>
             <Circle />
-            <Image src={item.img} />
+            <Image src={item.image} />
             <Info>
                 <Icon>
                     <ShoppingCartOutlined />

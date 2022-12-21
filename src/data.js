@@ -27,16 +27,21 @@ export const sliderItems = [
       id: 1,
       img: "https://imgs.search.brave.com/Omb0DjBJ1O2-7TxYEIhhKXlskFtq-QtwIh5yXL5iVas/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI4L2Fi/LzFmLzI4YWIxZmEw/MTQwOGRmYjkzMzgz/NTU4ZTdhOWY5NTdj/LmpwZw",
       title: "Washing Machine",
+      cat:"BIg Appliances"
     },
     {
       id: 2,
       img: "https://imgs.search.brave.com/rO4DINWEqKrZF_G2twkTSbafbj1-xCDbC1RCxTu5eK8/rs:fit:528:500:1/g:ce/aHR0cDovL3d3dy53/YWxsc2Zvcm1zLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wMS9BcHBsaWFu/Y2VzLnBuZw",
       title: "Cleaning Appliances",
+      cat:"Cleaning"
+    
     },
     {
       id: 3,
       img: "https://imgs.search.brave.com/5CJ1eLeQLHjd8D2PQYZilm2r1Z01IKkitKe62zrcWhU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQ2LzVh/LzNiLzQ2NWEzYjYy/NTJmMDJkZTg2NWYw/ODgxOGZlMDYwNGVm/LmpwZw",
       title: "Washing machine",
+      cat:"Big Appliances"
+    
     },
   ];
 
